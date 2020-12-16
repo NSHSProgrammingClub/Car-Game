@@ -1,0 +1,6 @@
+[submodule "cargameclient"]
+	path = cargameclient
+	url = https://github.com/NSHSProgrammingClub/cargameclient
+[submodule "cargameserver"]
+	path = cargameserver
+	url = https://github.com/NSHSProgrammingClub/cargameserver
